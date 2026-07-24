@@ -35,13 +35,10 @@ Seja bem-vindo(a) ao meu perfil! Sou desenvolvedor com foco na criação de apli
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=MichaelCarvalhoUFS&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" width="49%" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCarvalhoUFS&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" width="49%" />
-  </a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MichaelCarvalhoUFS&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichaelCarvalhoUFS&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" width="49%" />
 </p>
+
 ---
 
 ## 📫 Vamos nos conectar?
