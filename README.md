@@ -1,4 +1,4 @@
-# Olá, eu sou o José Michael Carvalho
+# Olá! Eu me chamo José Michael Carvalho
 
 ### Graduando de Ciência da Computação na UFS | Python | Lógica de Programação | Resolução de Problemas e Gestão| Desenvolvedor de Software | Apaixonado por Código Limpo & Arquitetura
 
