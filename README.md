@@ -35,8 +35,8 @@ Seja bem-vindo(a) ao meu perfil! Sou desenvolvedor com foco na criação de apli
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MichaelCarvalhoUFS&show_icons=true&theme=github_dark&text_color=53a4ff&hide_border=false" alt="Estatísticas do GitHub" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichaelCarvalhoUFS&layout=compact&theme=github_dark&text_color=53a4ff&cardinality_height=2&hide_border=false" alt="Linguagens mais usadas" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelCarvalhoUFS&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800&v=2" alt="Estatísticas do GitHub" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCarvalhoUFS&layout=compact&theme=dracula&hide_border=true&langs_count=5&cache_seconds=1800&v=2" alt="Linguagens mais usadas" width="49%" />
 </p>
 
 ---
