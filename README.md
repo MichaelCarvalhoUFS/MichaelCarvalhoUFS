@@ -43,8 +43,8 @@ Seja bem-vindo(a) ao meu perfil! Sou desenvolvedor com foco na criação de apli
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn]((https://www.linkedin.com/in/jos%C3%A9-michael-carvalho-125a27224/))]
-[![Email Pessoal](maiconjosecarvalho2008@gmail.com)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-michael-carvalho-125a27224/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maiconjosecarvalho2008@gmail.com)
 
 ---
 
