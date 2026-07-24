@@ -35,8 +35,8 @@ Seja bem-vindo(a) ao meu perfil! Sou desenvolvedor com foco na criação de apli
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MichaelCarvalhoUFS&theme=dark&hide_border=true" alt="Sequência de Commits" width="49%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelCarvalhoUFS&theme=react-dark&hide_border=true" alt="Gráfico de Atividade" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichaelCarvalhoUFS&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Linguagens mais usadas" width="49%" />
 </p>
 
 ---
