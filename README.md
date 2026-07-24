@@ -2,7 +2,7 @@
 
 ### Graduando de Ciência da Computação na UFS | Python | Lógica de Programação | Resolução de Problemas e Gestão| Desenvolvedor de Software | Apaixonado por Código Limpo & Arquitetura
 
-Seja bem-vindo(a) ao meu perfil! Sou desenvolvedor com foco na criação de aplicações interativas, funcionais e intuitivas. Adoro transformar conceitos em software bem estruturado, prezando por boa arquitetura, padrões de projeto e usabilidade.
+Seja bem-vindo(a) ao meu perfil! Sou desenvolvedor com foco na criação de aplicações interativas, funcionais e intuitivas. Sou focado em transformar conceitos em software bem estruturado, prezando por boa arquitetura, padrões de projeto e usabilidade.
 
 ---
 
@@ -35,15 +35,15 @@ Seja bem-vindo(a) ao meu perfil! Sou desenvolvedor com foco na criação de apli
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaelCarvalhoUFS&show_icons=true&theme=radial&hide_border=true" alt="Estatísticas do GitHub" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelCarvalhoUFS&layout=compact&theme=radial&hide_border=true" alt="Linguagens mais usadas" height="160"/>
 </div>
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/jos%C3%A9-michael-carvalho-125a27224/))]
+[![LinkedIn]((https://www.linkedin.com/in/jos%C3%A9-michael-carvalho-125a27224/))]
 [![Email Pessoal](maiconjosecarvalho2008@gmail.com)]
 
 ---
