@@ -54,10 +54,10 @@ Meu objetivo principal não é apenas escrever código, mas desenvolver **softwa
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Linguagens Usadas
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichaelCarvalhoUFS&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Linguagens mais usadas" width="100%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichaelCarvalhoUFS&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Linguagens mais usadas" width="50%" />
 </p>
 
 ---
