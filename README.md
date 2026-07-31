@@ -29,7 +29,7 @@ Seja bem-vindo(a) ao meu perfil! Sou desenvolvedor com foco na criação de apli
 | Projeto | Descrição | Tecs |
 | :--- | :--- | :--- |
 | ** Da Vinci** | Aplicação desktop interativa de desenho focada em usabilidade e estrutura limpa. | Python, Tkinter, MVC |
-| ** ProDraw** | Software de ilustração e canvas interativo inspirado em ferramentas modernas de diagramação. | Python, Canvas GUI |
+| ** The Huxley** | Resoluções de problemas computacionais em Python do "The huxley". | Python |
 
 ---
 
