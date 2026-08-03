@@ -28,8 +28,8 @@ Seja bem-vindo(a) ao meu perfil! Sou desenvolvedor com foco na criação de apli
 
 | Projeto | Descrição | Tecs |
 | :--- | :--- | :--- |
-| ** Da Vinci** | Aplicação desktop interativa de desenho focada em usabilidade e estrutura limpa. | Python, Tkinter, MVC |
-| ** The Huxley** | Resoluções de problemas computacionais em Python do "The huxley". | Python |
+| **Da Vinci** | Aplicação desktop interativa de desenho focada em usabilidade e estrutura limpa. | Python, Tkinter, MVC |
+| **The Huxley** | Resoluções de problemas computacionais em Python do "The huxley". | Python |
 
 ---
 
