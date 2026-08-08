@@ -69,12 +69,12 @@ Meu objetivo principal não é apenas escrever código, mas desenvolver **softwa
 
 ---
 
-### 🛠️ Linguagens Usadas
+### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichaelCarvalhoUFS&layout=compact&theme=dark&hide_border=true&langs_count=5" alt="Linguagens mais usadas" width="50%" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichaelCarvalhoUFS&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&langs_count=5" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MichaelCarvalhoUFS&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=3776AB" width="48%" />
+</div>
 ---
 
 ### 📫 Vamos nos conectar?
